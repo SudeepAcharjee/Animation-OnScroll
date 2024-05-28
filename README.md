@@ -15,7 +15,6 @@ This repository provides a collection of scroll animations that are easy to impl
 # Installation
 
     Clone the repository:
-
     bash
 
     git clone  https://github.com/SudeepAcharjee/Animation-OnScroll
